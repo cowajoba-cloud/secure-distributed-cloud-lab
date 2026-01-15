@@ -60,5 +60,5 @@ Systematically identify threats in the secure distributed cloud architecture usi
 
 ## Notes
 - STRIDE tables are **reproducible** and **version-controlled**, suitable for academic and industrial review.
-- All mitigations are **aligned with your Week 1–2 architecture**, Figure 1, and Week 3 attack surface, Figure 2.
+- All mitigations are **aligned with Week 1–2 architecture**, Figure 1, and Week 3 attack surface, Figure 2.
 - These tables form the baseline for **Week 4 controlled misconfigurations**, enabling measurable risk assessment.
