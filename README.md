@@ -1,6 +1,6 @@
-# Secure Distributed Cloud Lab
+# Secure-by-Design Distributed Cloud Architectures
 
-**Lab Project:** Secure Distributed Cloud Architectures
+**Lab Project:** Research-Driven Security Engineering for Cloud-Native Systems
 
 Cloud and distributed systems underpin modern digital infrastructure across government, industry, and research domains. However, security incidents in these environments frequently arise not from zero-day exploits, but from **architectural weaknesses** such as misconfigurations, over-permissive access controls, and poorly defined trust boundaries.
 
