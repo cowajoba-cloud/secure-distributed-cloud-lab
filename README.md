@@ -1,7 +1,7 @@
 # Secure-by-Design Distributed Cloud Architectures
 
 **Lab Project:** Research-Driven Security Engineering for Cloud-Native Systems
-**Author:** *Charles Owajoba**
+## Author : *Charles Owajoba**
 *Project developed as part of MSc research at Sheffield Hallam University.*
 
 Cloud and distributed systems underpin modern digital infrastructure across government, industry, and research domains. However, security incidents in these environments frequently arise not from zero-day exploits, but from **architectural weaknesses** such as misconfigurations, over-permissive access controls, and poorly defined trust boundaries.
